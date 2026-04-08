@@ -1,0 +1,9 @@
+Results Table 1,,,,
+,Width,Thickness,Area,AVE2 gauge length
+,(mm),(mm),(mm^2),(mm)
+1.0,"4.05","10.11","40.95","40.95"
+2.0,"4.02","10.02","40.28","40.28"
+3.0,"3.99","10.06","40.14","40.14"
+Mean,4.02,10.06,40.46,40.46
+Standard deviation,0.02,0.04,0.35,0.35
+Coefficient of variation,0.61,0.37,0.87,0.87
